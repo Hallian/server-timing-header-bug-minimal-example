@@ -3,6 +3,7 @@
 ## Setup
 
 ```
+npm install
 node index.js
 curl localhost:8880 -D -
 ```
